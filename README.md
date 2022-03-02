@@ -1,5 +1,5 @@
 # Quotes-App
-This repo serves mainly for me to learn to use GitHub from Xcode. 
+This repo serves mainly for me to learn to use GitHub from Xcode. I made this in conjunction with the CodingWithChris course I am following along with.  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/77747704/156297475-e6fa2335-9e67-44fb-b543-b6f8f836e5e0.png" height="1000">
