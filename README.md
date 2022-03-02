@@ -1,6 +1,5 @@
 # Quotes-App
 This repo serves mainly for me to learn to use GitHub from Xcode. 
-Otherwise, this source code is directly from my learning from the [CodeWithChris](https://codewithchris.com/?_ga=2.34298145.1851429282.1646157340-1237979513.1646157340) course.
 
 
 ![Simulator Screen Shot - iPhone 13 - 2022-03-01 at 23 51 48](https://user-images.githubusercontent.com/77747704/156297475-e6fa2335-9e67-44fb-b543-b6f8f836e5e0.png)
