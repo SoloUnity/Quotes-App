@@ -1,0 +1,42 @@
+[
+{
+    "name":"Steve Jobs",
+    "quotes":["The ones who are crazy enough to think that they can change the world, are the ones who do.",
+        "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary." ,
+    "Don’t let the noise of others’ opinions drown out your own inner voice."],
+    "image":"ambition"
+    
+},
+{
+    "name":"Charles Swindoll",
+    "quotes":["We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+        "Each day of our lives we make deposits in the memory banks of our children.",
+        "The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.",
+    "When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic."],
+    "image":"calm"
+},
+{
+    "name":"Charles Swindoll",
+    "quotes":["We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+        "Each day of our lives we make deposits in the memory banks of our children.",
+        "The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.",
+    "When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic."],
+    "image":"focus"
+},
+{
+    "name":"Charles Swindoll",
+    "quotes":["We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+        "Each day of our lives we make deposits in the memory banks of our children.",
+        "The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.",
+    "When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic."],
+    "image":"reflect"
+},
+{
+    "name":"Charles Swindoll",
+    "quotes":["We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+        "Each day of our lives we make deposits in the memory banks of our children.",
+        "The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.",
+    "When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic."],
+    "image":"reflect2"
+}
+]
